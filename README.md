@@ -5,6 +5,8 @@ This is not guaranteed to work in any capacity - it worked for me and my protonp
 
 Uses github.com/tobischo/gokeepasslib for keepass integration
 
+Uses github.com/diamondburned/gotk4/ for GTK bindings
+
 Provides CLI and GUI user interfaces - if run with no flags the GUI version is executed.
 
 There are 3 parameters that can be passed via the commandline:
